@@ -14,5 +14,6 @@
 	"author": "Sahasbhop Suvadhanabhakdi",
 	"description": "A project for doing assignments in Back End Development course at freecodecamp.org",
 	"keywords": ["freecodecamp", "study", "backend"],
-	"license": "MIT"
+	"license": "MIT",
+	"version": "0.0.1"
 }
