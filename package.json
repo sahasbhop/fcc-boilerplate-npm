@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Sahasbhop Suvadhanabhakdi"
+	"author": "Sahasbhop Suvadhanabhakdi",
+	"description": "A project for doing assignments in Back End Development course at freecodecamp.org"
 }
